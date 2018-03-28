@@ -1,0 +1,3 @@
+Users can install macro one click.
+The macro is executed from this place. 
+Update here - work everywere in local.
